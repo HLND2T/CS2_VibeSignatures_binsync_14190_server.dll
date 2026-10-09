@@ -1,0 +1,10 @@
+last_change = 2026-10-09T11:52:01.847700Z
+addr = 0x639300
+size = 0x2f
+name = "CBaseEntity_ScriptSetAngles"
+
+[header]
+name = "CBaseEntity_ScriptSetAngles"
+addr = 0x639300
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848538Z
+addr = 0xdff2c0
+size = 0x67
+name = "CGamePlayerEquip_API_TriggerForAllPlayers"
+type = "long long"
+
+[header]
+name = "CGamePlayerEquip_API_TriggerForAllPlayers"
+addr = 0xdff2c0
+type = "long long"
+
+[header.args]

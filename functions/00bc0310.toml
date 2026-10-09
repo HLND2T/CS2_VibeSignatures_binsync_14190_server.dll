@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848059Z
+addr = 0xbc0310
+size = 0x5
+name = "CGameSystemReallocatingFactory_CSource2EntitySystem_Init"
+type = "char"
+
+[header]
+name = "CGameSystemReallocatingFactory_CSource2EntitySystem_Init"
+addr = 0xbc0310
+type = "char"
+
+[header.args]

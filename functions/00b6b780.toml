@@ -1,0 +1,10 @@
+last_change = 2026-10-09T11:52:01.848020Z
+addr = 0xb6b780
+size = 0x2f
+name = "CBaseModelEntity_ScriptLookupAttachment"
+
+[header]
+name = "CBaseModelEntity_ScriptLookupAttachment"
+addr = 0xb6b780
+
+[header.args]

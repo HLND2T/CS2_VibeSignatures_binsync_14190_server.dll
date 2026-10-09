@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848286Z
+addr = 0xcb3840
+size = 0x1ea
+name = "UTIL_ClientPrintFilter"
+type = "long long"
+
+[header]
+name = "UTIL_ClientPrintFilter"
+addr = 0xcb3840
+type = "long long"
+
+[header.args]

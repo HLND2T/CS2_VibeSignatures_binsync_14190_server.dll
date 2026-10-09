@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:31.063743Z
+addr = 0xceb6e0
+size = 0x413
+name = "GiveCommand"
+type = "void"
+
+[header]
+name = "GiveCommand"
+addr = 0xceb6e0
+type = "void"
+
+[header.args]

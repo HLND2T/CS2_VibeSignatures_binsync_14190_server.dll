@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:39.673847Z
+addr = 0x13a42f0
+size = 0xa
+name = "CEntityInstance_NetworkUpdateState_thunk"
+type = "long long"
+
+[header]
+name = "CEntityInstance_NetworkUpdateState_thunk"
+addr = 0x13a42f0
+type = "long long"
+
+[header.args]

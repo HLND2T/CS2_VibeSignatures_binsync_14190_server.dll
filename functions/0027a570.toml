@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847372Z
+addr = 0x27a570
+size = 0x123
+name = "CGameMoney_OnMoneySpent"
+type = "long long"
+
+[header]
+name = "CGameMoney_OnMoneySpent"
+addr = 0x27a570
+type = "long long"
+
+[header.args]

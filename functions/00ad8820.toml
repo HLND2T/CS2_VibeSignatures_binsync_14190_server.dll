@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847904Z
+addr = 0xad8820
+size = 0x155
+name = "CCSPlayer_ItemServices_RemoveWeapons"
+type = "long long"
+
+[header]
+name = "CCSPlayer_ItemServices_RemoveWeapons"
+addr = 0xad8820
+type = "long long"
+
+[header.args]

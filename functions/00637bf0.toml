@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:19.445507Z
+addr = 0x637bf0
+size = 0x2e4
+name = "CNetworkUtlVectorEmbedded_TryLateResolve_m_vecRenderAttributes"
+type = "char"
+
+[header]
+name = "CNetworkUtlVectorEmbedded_TryLateResolve_m_vecRenderAttributes"
+addr = 0x637bf0
+type = "char"
+
+[header.args]

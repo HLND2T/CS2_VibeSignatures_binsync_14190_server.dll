@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848184Z
+addr = 0xc286b0
+size = 0x15
+name = "UTIL_Remove"
+type = "long long"
+
+[header]
+name = "UTIL_Remove"
+addr = 0xc286b0
+type = "long long"
+
+[header.args]

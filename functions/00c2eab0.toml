@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848188Z
+addr = 0xc2eab0
+size = 0x68
+name = "NET_ReloadGameEvents_CommandHandler"
+type = "long long"
+
+[header]
+name = "NET_ReloadGameEvents_CommandHandler"
+addr = 0xc2eab0
+type = "long long"
+
+[header.args]

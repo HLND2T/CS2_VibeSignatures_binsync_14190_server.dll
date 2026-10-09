@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848485Z
+addr = 0xdd2b20
+size = 0x76
+name = "CGameRulesGameSystem_OnGameInit"
+type = "double"
+
+[header]
+name = "CGameRulesGameSystem_OnGameInit"
+addr = 0xdd2b20
+type = "double"
+
+[header.args]

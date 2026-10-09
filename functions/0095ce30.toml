@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:21.830927Z
+addr = 0x95ce30
+size = 0x153c
+name = "CCSGameRules_TerminateRound"
+type = "_UNKNOWN **"
+
+[header]
+name = "CCSGameRules_TerminateRound"
+addr = 0x95ce30
+type = "_UNKNOWN **"
+
+[header.args]

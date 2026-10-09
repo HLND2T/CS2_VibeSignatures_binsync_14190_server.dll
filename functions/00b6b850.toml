@@ -1,0 +1,10 @@
+last_change = 2026-10-09T11:52:01.848028Z
+addr = 0xb6b850
+size = 0xa
+name = "CBaseModelEntity_Script_SetModelScale"
+
+[header]
+name = "CBaseModelEntity_Script_SetModelScale"
+addr = 0xb6b850
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848205Z
+addr = 0xc46db0
+size = 0xbd
+name = "DispatchParticleEffect2"
+type = "long long"
+
+[header]
+name = "DispatchParticleEffect2"
+addr = 0xc46db0
+type = "long long"
+
+[header.args]

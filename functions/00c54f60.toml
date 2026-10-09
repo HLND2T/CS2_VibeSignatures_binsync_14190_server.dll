@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:29.326892Z
+addr = 0xc54f60
+size = 0x18c
+name = "CLoopModeGame_OnLoopDeactivate"
+type = "long long"
+
+[header]
+name = "CLoopModeGame_OnLoopDeactivate"
+addr = 0xc54f60
+type = "long long"
+
+[header.args]

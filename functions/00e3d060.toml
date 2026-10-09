@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848546Z
+addr = 0xe3d060
+size = 0x93
+name = "CGamePlayerEquip_InputTriggerForActivatedPlayer"
+type = "void"
+
+[header]
+name = "CGamePlayerEquip_InputTriggerForActivatedPlayer"
+addr = 0xe3d060
+type = "void"
+
+[header.args]

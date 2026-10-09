@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847986Z
+addr = 0xb5c800
+size = 0x35f
+name = "CBasePlayerController_ClientSettingsChanged"
+type = "long long"
+
+[header]
+name = "CBasePlayerController_ClientSettingsChanged"
+addr = 0xb5c800
+type = "long long"
+
+[header.args]

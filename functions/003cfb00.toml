@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847519Z
+addr = 0x3cfb00
+size = 0x2c
+name = "CBaseEntity_GetAbsAngles"
+type = "long long"
+
+[header]
+name = "CBaseEntity_GetAbsAngles"
+addr = 0x3cfb00
+type = "long long"
+
+[header.args]

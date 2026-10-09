@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848648Z
+addr = 0x1373320
+size = 0xfa
+name = "CEntitySystem_AddEntityIOEvent"
+type = "long long"
+
+[header]
+name = "CEntitySystem_AddEntityIOEvent"
+addr = 0x1373320
+type = "long long"
+
+[header.args]

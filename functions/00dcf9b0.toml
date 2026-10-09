@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:32.940978Z
+addr = 0xdcf9b0
+size = 0x47c
+name = "CSource2Server_Connect"
+type = "char"
+
+[header]
+name = "CSource2Server_Connect"
+addr = 0xdcf9b0
+type = "char"
+
+[header.args]

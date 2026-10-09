@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848617Z
+addr = 0xfc11d0
+size = 0x160
+name = "FireTargets"
+type = "void"
+
+[header]
+name = "FireTargets"
+addr = 0xfc11d0
+type = "void"
+
+[header.args]

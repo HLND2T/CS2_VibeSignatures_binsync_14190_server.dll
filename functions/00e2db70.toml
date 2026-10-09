@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848543Z
+addr = 0xe2db70
+size = 0x241
+name = "CGamePlayerEquip_InputTriggerForAllPlayers"
+type = "long long"
+
+[header]
+name = "CGamePlayerEquip_InputTriggerForAllPlayers"
+addr = 0xe2db70
+type = "long long"
+
+[header.args]

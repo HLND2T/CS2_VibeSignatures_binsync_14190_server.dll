@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847524Z
+addr = 0x3d6b80
+size = 0x3be
+name = "CBaseEntity_SpawnRadius"
+type = "void"
+
+[header]
+name = "CBaseEntity_SpawnRadius"
+addr = 0x3d6b80
+type = "void"
+
+[header.args]

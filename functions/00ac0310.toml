@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847883Z
+addr = 0xac0310
+size = 0x22
+name = "CCSPlayer_ItemServices_GiveNamedItem"
+type = "long long"
+
+[header]
+name = "CCSPlayer_ItemServices_GiveNamedItem"
+addr = 0xac0310
+type = "long long"
+
+[header.args]

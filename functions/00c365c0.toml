@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848191Z
+addr = 0xc365c0
+size = 0xb5
+name = "CLoopModeFactory_CLoopModeGame_Init"
+type = "char"
+
+[header]
+name = "CLoopModeFactory_CLoopModeGame_Init"
+addr = 0xc365c0
+type = "char"
+
+[header.args]

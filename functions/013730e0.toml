@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:36.862708Z
+addr = 0x13730e0
+size = 0x1c
+name = "CEntitySystem_RegisterAccessor"
+type = "long long"
+
+[header]
+name = "CEntitySystem_RegisterAccessor"
+addr = 0x13730e0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:34.783310Z
+addr = 0xde75f0
+size = 0x89b
+name = "CSource2GameClients_ProcessUsercmds"
+type = "long long"
+
+[header]
+name = "CSource2GameClients_ProcessUsercmds"
+addr = 0xde75f0
+type = "long long"
+
+[header.args]

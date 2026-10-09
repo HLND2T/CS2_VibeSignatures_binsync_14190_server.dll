@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848418Z
+addr = 0xd8a180
+size = 0x58
+name = "CBreakable_DamageDecal"
+type = "unsigned long long *"
+
+[header]
+name = "CBreakable_DamageDecal"
+addr = 0xd8a180
+type = "unsigned long long *"
+
+[header.args]

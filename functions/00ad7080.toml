@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847899Z
+addr = 0xad7080
+size = 0x274
+name = "CCSPlayerPawn_HandleDropWeapon"
+type = "char"
+
+[header]
+name = "CCSPlayerPawn_HandleDropWeapon"
+addr = 0xad7080
+type = "char"
+
+[header.args]

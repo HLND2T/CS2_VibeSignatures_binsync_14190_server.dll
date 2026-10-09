@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847250Z
+addr = 0x1ac3b0
+size = 0x8e8
+name = "CSource2Server_ApplyGameSettings"
+type = "void"
+
+[header]
+name = "CSource2Server_ApplyGameSettings"
+addr = 0x1ac3b0
+type = "void"
+
+[header.args]

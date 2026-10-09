@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847863Z
+addr = 0xab3f10
+size = 0x901
+name = "CCSPlayer_MovementServices_OnJumpLegacy"
+type = "unsigned long long *"
+
+[header]
+name = "CCSPlayer_MovementServices_OnJumpLegacy"
+addr = 0xab3f10
+type = "unsigned long long *"
+
+[header.args]

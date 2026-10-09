@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848746Z
+addr = 0x1382d50
+size = 0x7a
+name = "CEntitySystem_ReleaseKeyValues"
+type = "void"
+
+[header]
+name = "CEntitySystem_ReleaseKeyValues"
+addr = 0x1382d50
+type = "void"
+
+[header.args]

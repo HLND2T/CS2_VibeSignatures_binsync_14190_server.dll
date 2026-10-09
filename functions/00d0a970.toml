@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:32.454267Z
+addr = 0xd0a970
+size = 0x146
+name = "CBaseEntity_Spawn"
+type = "void"
+
+[header]
+name = "CBaseEntity_Spawn"
+addr = 0xd0a970
+type = "void"
+
+[header.args]

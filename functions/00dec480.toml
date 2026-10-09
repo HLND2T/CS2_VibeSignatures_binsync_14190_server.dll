@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848536Z
+addr = 0xdec480
+size = 0x9f
+name = "CSource2GameClients_StartHLTVServer"
+type = "void"
+
+[header]
+name = "CSource2GameClients_StartHLTVServer"
+addr = 0xdec480
+type = "void"
+
+[header.args]

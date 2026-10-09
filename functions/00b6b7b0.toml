@@ -1,0 +1,10 @@
+last_change = 2026-10-09T11:52:01.848022Z
+addr = 0xb6b7b0
+size = 0x4e
+name = "CBaseModelEntity_ScriptSetBodygroupByName"
+
+[header]
+name = "CBaseModelEntity_ScriptSetBodygroupByName"
+addr = 0xb6b7b0
+
+[header.args]

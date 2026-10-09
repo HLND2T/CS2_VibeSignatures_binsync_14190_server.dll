@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847492Z
+addr = 0x340180
+size = 0x5c3
+name = "CChicken_Event_Killed"
+type = "bool"
+
+[header]
+name = "CChicken_Event_Killed"
+addr = 0x340180
+type = "bool"
+
+[header.args]

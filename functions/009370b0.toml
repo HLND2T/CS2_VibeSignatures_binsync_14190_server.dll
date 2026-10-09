@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:21.734298Z
+addr = 0x9370b0
+size = 0x4b8
+name = "GameSystem_Think_CheckSteamBan"
+type = "unsigned long long *"
+
+[header]
+name = "GameSystem_Think_CheckSteamBan"
+addr = 0x9370b0
+type = "unsigned long long *"
+
+[header.args]

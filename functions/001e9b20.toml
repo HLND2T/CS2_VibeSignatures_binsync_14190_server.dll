@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:15.626215Z
+addr = 0x1e9b20
+size = 0x688
+name = "CDedicatedServerWorkshopManager_SwitchToWorkshopMapGroup"
+type = "long long"
+
+[header]
+name = "CDedicatedServerWorkshopManager_SwitchToWorkshopMapGroup"
+addr = 0x1e9b20
+type = "long long"
+
+[header.args]

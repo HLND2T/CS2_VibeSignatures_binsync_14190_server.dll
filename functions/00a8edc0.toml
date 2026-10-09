@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847832Z
+addr = 0xa8edc0
+size = 0x40
+name = "CCSPlayerController_HandleCommandDrop"
+type = "char"
+
+[header]
+name = "CCSPlayerController_HandleCommandDrop"
+addr = 0xa8edc0
+type = "char"
+
+[header.args]

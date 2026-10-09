@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848517Z
+addr = 0xddffa0
+size = 0x1d3
+name = "CSource2GameClients_GetBugReportInfo"
+type = "int"
+
+[header]
+name = "CSource2GameClients_GetBugReportInfo"
+addr = 0xddffa0
+type = "int"
+
+[header.args]

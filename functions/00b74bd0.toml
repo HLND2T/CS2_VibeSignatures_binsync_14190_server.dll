@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848053Z
+addr = 0xb74bd0
+size = 0x1b8
+name = "CBaseFilter_API_TestActivator"
+type = "long long"
+
+[header]
+name = "CBaseFilter_API_TestActivator"
+addr = 0xb74bd0
+type = "long long"
+
+[header.args]

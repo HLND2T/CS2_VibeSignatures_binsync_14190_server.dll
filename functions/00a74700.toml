@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847819Z
+addr = 0xa74700
+size = 0x28a
+name = "WeaponBuy"
+type = "long long"
+
+[header]
+name = "WeaponBuy"
+addr = 0xa74700
+type = "long long"
+
+[header.args]

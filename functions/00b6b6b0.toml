@@ -1,0 +1,10 @@
+last_change = 2026-10-09T11:52:01.848018Z
+addr = 0xb6b6b0
+size = 0x3b
+name = "CBaseModelEntity_ScriptGetAttachmentOrigin"
+
+[header]
+name = "CBaseModelEntity_ScriptGetAttachmentOrigin"
+addr = 0xb6b6b0
+
+[header.args]

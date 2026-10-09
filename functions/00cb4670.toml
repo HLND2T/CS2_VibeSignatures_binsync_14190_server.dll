@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:30.385069Z
+addr = 0xcb4670
+size = 0x196
+name = "UTIL_GetPlayerControllerForEntity"
+type = "unsigned int *"
+
+[header]
+name = "UTIL_GetPlayerControllerForEntity"
+addr = 0xcb4670
+type = "unsigned int *"
+
+[header.args]

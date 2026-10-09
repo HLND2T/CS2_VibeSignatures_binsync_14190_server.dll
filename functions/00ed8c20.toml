@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:36.008065Z
+addr = 0xed8c20
+size = 0x244
+name = "CPlayerCommandQueue_UpdateStats"
+type = "void"
+
+[header]
+name = "CPlayerCommandQueue_UpdateStats"
+addr = 0xed8c20
+type = "void"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-09T11:52:01.848344Z
+addr = 0xd03da0
+size = 0x3c
+name = "CBaseEntity_ScriptFirstMoveChild"
+
+[header]
+name = "CBaseEntity_ScriptFirstMoveChild"
+addr = 0xd03da0
+
+[header.args]

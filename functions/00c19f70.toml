@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:28.060015Z
+addr = 0xc19f70
+size = 0x2c3
+name = "CEntitySaveRestoreBlockHandler_SaveInternal"
+type = "char"
+
+[header]
+name = "CEntitySaveRestoreBlockHandler_SaveInternal"
+addr = 0xc19f70
+type = "char"
+
+[header.args]

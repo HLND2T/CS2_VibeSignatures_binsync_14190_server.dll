@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847489Z
+addr = 0x32d320
+size = 0xee9
+name = "HideState_OnUpdate"
+type = "void"
+
+[header]
+name = "HideState_OnUpdate"
+addr = 0x32d320
+type = "void"
+
+[header.args]

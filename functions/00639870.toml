@@ -1,0 +1,10 @@
+last_change = 2026-10-09T11:52:01.847740Z
+addr = 0x639870
+size = 0x8
+name = "CBaseEntity_Script_GetTeamNumber"
+
+[header]
+name = "CBaseEntity_Script_GetTeamNumber"
+addr = 0x639870
+
+[header.args]

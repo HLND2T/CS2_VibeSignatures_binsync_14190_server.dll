@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848092Z
+addr = 0xbd4540
+size = 0x1dd
+name = "CGameEntitySystem_ctor"
+type = "long long"
+
+[header]
+name = "CGameEntitySystem_ctor"
+addr = 0xbd4540
+type = "long long"
+
+[header.args]

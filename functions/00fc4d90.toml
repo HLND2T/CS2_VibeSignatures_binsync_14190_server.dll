@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848620Z
+addr = 0xfc4d90
+size = 0x3b
+name = "CTriggerGravity_GravityTouch"
+type = "long long"
+
+[header]
+name = "CTriggerGravity_GravityTouch"
+addr = 0xfc4d90
+type = "long long"
+
+[header.args]

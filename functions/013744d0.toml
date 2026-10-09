@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848654Z
+addr = 0x13744d0
+size = 0x57
+name = "CEntitySystem_AddRefKeyValues"
+type = "double"
+
+[header]
+name = "CEntitySystem_AddRefKeyValues"
+addr = 0x13744d0
+type = "double"
+
+[header.args]

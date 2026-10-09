@@ -1,0 +1,10 @@
+last_change = 2026-10-09T11:52:01.847157Z
+addr = 0x156c10
+size = 0x3
+name = "IGameSystem_OnServerPreEndAsyncPostTickWork"
+
+[header]
+name = "IGameSystem_OnServerPreEndAsyncPostTickWork"
+addr = 0x156c10
+
+[header.args]

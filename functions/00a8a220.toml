@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847826Z
+addr = 0xa8a220
+size = 0x14a
+name = "CCSPlayerController_InitialSpawn"
+type = "long long"
+
+[header]
+name = "CCSPlayerController_InitialSpawn"
+addr = 0xa8a220
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848278Z
+addr = 0xca20c0
+size = 0xc1
+name = "CBaseEntity_DispatchSpawn"
+type = "long long"
+
+[header]
+name = "CBaseEntity_DispatchSpawn"
+addr = 0xca20c0
+type = "long long"
+
+[header.args]

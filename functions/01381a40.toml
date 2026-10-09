@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:38.381924Z
+addr = 0x1381a40
+size = 0x7e
+name = "CEntitySystem_OnRemoveEntityFromDatabase"
+type = "void"
+
+[header]
+name = "CEntitySystem_OnRemoveEntityFromDatabase"
+addr = 0x1381a40
+type = "void"
+
+[header.args]

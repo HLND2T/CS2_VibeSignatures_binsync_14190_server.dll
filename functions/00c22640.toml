@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848162Z
+addr = 0xc22640
+size = 0x7
+name = "CGameEventManager_Shutdown"
+type = "long long"
+
+[header]
+name = "CGameEventManager_Shutdown"
+addr = 0xc22640
+type = "long long"
+
+[header.args]

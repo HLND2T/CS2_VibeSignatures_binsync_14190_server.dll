@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:38.050045Z
+addr = 0x137d590
+size = 0x1a
+name = "CEntityKeyValuesAllocator_GetTempBuffer"
+type = "__int128 *"
+
+[header]
+name = "CEntityKeyValuesAllocator_GetTempBuffer"
+addr = 0x137d590
+type = "__int128 *"
+
+[header.args]

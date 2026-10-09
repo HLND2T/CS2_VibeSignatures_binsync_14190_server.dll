@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:38.189672Z
+addr = 0x137dd60
+size = 0x61e
+name = "CEntitySystem_Init"
+type = "long long"
+
+[header]
+name = "CEntitySystem_Init"
+addr = 0x137dd60
+type = "long long"
+
+[header.args]

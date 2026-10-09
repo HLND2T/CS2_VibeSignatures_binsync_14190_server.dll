@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847961Z
+addr = 0xb47590
+size = 0x49
+name = "CBasePlayerPawn_EyeVectors"
+type = "long long"
+
+[header]
+name = "CBasePlayerPawn_EyeVectors"
+addr = 0xb47590
+type = "long long"
+
+[header.args]

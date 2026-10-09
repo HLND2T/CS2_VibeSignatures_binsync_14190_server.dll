@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848105Z
+addr = 0xbe7330
+size = 0x9a4
+name = "CreateEntityTransitionList"
+type = "long long"
+
+[header]
+name = "CreateEntityTransitionList"
+addr = 0xbe7330
+type = "long long"
+
+[header.args]

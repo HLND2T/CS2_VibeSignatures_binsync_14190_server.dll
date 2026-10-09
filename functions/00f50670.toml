@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848602Z
+addr = 0xf50670
+size = 0xc2e
+name = "GetCSceneEntityScriptDesc"
+type = "long long"
+
+[header]
+name = "GetCSceneEntityScriptDesc"
+addr = 0xf50670
+type = "long long"
+
+[header.args]

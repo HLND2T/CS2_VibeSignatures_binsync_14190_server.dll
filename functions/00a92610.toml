@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847837Z
+addr = 0xa92610
+size = 0x63
+name = "CCSPlayerController_ResourceDataThink"
+type = "double"
+
+[header]
+name = "CCSPlayerController_ResourceDataThink"
+addr = 0xa92610
+type = "double"
+
+[header.args]

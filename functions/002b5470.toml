@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847393Z
+addr = 0x2b5470
+size = 0x13f
+name = "CCSBot_Attack"
+type = "void"
+
+[header]
+name = "CCSBot_Attack"
+addr = 0x2b5470
+type = "void"
+
+[header.args]

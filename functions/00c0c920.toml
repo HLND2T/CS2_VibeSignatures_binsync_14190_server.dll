@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848144Z
+addr = 0xc0c920
+size = 0x210
+name = "CGameSceneNode_PostDataUpdate"
+type = "char"
+
+[header]
+name = "CGameSceneNode_PostDataUpdate"
+addr = 0xc0c920
+type = "char"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848504Z
+addr = 0xddd520
+size = 0xd2
+name = "CSource2GameClients_ClientPutInServer"
+type = "void"
+
+[header]
+name = "CSource2GameClients_ClientPutInServer"
+addr = 0xddd520
+type = "void"
+
+[header.args]

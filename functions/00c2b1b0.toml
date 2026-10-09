@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:28.594518Z
+addr = 0xc2b1b0
+size = 0x11f
+name = "CGameSceneNode_UpdateEntityForHierarchyChange"
+type = "long long"
+
+[header]
+name = "CGameSceneNode_UpdateEntityForHierarchyChange"
+addr = 0xc2b1b0
+type = "long long"
+
+[header.args]

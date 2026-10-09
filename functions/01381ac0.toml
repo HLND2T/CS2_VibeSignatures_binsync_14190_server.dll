@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848731Z
+addr = 0x1381ac0
+size = 0x4f
+name = "CEntitySystem_OnSetDormant"
+type = "long long"
+
+[header]
+name = "CEntitySystem_OnSetDormant"
+addr = 0x1381ac0
+type = "long long"
+
+[header.args]

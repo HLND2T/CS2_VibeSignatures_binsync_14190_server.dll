@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847595Z
+addr = 0x5793c0
+size = 0x15e
+name = "CSpawnGroupMgrGameSystem_CreateLoadingSpawnGroup"
+type = "unsigned long long *"
+
+[header]
+name = "CSpawnGroupMgrGameSystem_CreateLoadingSpawnGroup"
+addr = 0x5793c0
+type = "unsigned long long *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848752Z
+addr = 0x1387210
+size = 0x347
+name = "CEntitySystem_Spawn"
+type = "void"
+
+[header]
+name = "CEntitySystem_Spawn"
+addr = 0x1387210
+type = "void"
+
+[header.args]

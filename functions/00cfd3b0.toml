@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848336Z
+addr = 0xcfd3b0
+size = 0x83
+name = "CBaseEntity_OnRestore"
+type = "long long"
+
+[header]
+name = "CBaseEntity_OnRestore"
+addr = 0xcfd3b0
+type = "long long"
+
+[header.args]

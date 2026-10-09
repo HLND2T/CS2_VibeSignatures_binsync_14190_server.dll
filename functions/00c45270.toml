@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848200Z
+addr = 0xc45270
+size = 0x6b
+name = "CLoopModeGame_AddViewsToSceneSystem"
+type = "_OWORD *"
+
+[header]
+name = "CLoopModeGame_AddViewsToSceneSystem"
+addr = 0xc45270
+type = "_OWORD *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847516Z
+addr = 0x3cd580
+size = 0x237
+name = "CBaseTrigger_EndTouch"
+type = "void"
+
+[header]
+name = "CBaseTrigger_EndTouch"
+addr = 0x3cd580
+type = "void"
+
+[header.args]

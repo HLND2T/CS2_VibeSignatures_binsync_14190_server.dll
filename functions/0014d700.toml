@@ -1,0 +1,10 @@
+last_change = 2026-10-09T11:52:01.847123Z
+addr = 0x14d700
+size = 0x3
+name = "IGameSystem_OnServerPreEntityThink"
+
+[header]
+name = "IGameSystem_OnServerPreEntityThink"
+addr = 0x14d700
+
+[header.args]

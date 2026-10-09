@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848315Z
+addr = 0xcdd370
+size = 0x35c
+name = "EntInfo_CommandHandler"
+type = "void"
+
+[header]
+name = "EntInfo_CommandHandler"
+addr = 0xcdd370
+type = "void"
+
+[header.args]

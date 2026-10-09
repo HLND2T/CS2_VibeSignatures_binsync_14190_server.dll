@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848035Z
+addr = 0xb6d890
+size = 0x31
+name = "CBaseModelEntity_SetModel"
+type = "long long"
+
+[header]
+name = "CBaseModelEntity_SetModel"
+addr = 0xb6d890
+type = "long long"
+
+[header.args]

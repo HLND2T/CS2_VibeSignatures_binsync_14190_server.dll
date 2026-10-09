@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:32.886074Z
+addr = 0xdced70
+size = 0x7ac
+name = "CSource2GameEntities_CheckTransmit"
+type = "long long"
+
+[header]
+name = "CSource2GameEntities_CheckTransmit"
+addr = 0xdced70
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:23.465677Z
+addr = 0xabf2f0
+size = 0x71e
+name = "CCSPlayer_ItemServices_GiveDefaultItems"
+type = "void"
+
+[header]
+name = "CCSPlayer_ItemServices_GiveDefaultItems"
+addr = 0xabf2f0
+type = "void"
+
+[header.args]

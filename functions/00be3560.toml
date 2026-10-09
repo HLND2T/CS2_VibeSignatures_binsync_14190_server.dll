@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848096Z
+addr = 0xbe3560
+size = 0x4b2
+name = "CGameEntitySystem_BuildResourceManifest_KeyValuesVectors"
+type = "long long"
+
+[header]
+name = "CGameEntitySystem_BuildResourceManifest_KeyValuesVectors"
+addr = 0xbe3560
+type = "long long"
+
+[header.args]

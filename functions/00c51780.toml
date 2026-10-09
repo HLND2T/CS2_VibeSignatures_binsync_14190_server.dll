@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:29.177081Z
+addr = 0xc51780
+size = 0x1335
+name = "CLoopModeGame_LoopInit"
+type = "char"
+
+[header]
+name = "CLoopModeGame_LoopInit"
+addr = 0xc51780
+type = "char"
+
+[header.args]

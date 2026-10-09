@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.847181Z
+addr = 0x156cb0
+size = 0x3
+name = "CCSPlayerPawn_OnTakeDamage_Dying"
+type = "void"
+
+[header]
+name = "CCSPlayerPawn_OnTakeDamage_Dying"
+addr = 0x156cb0
+type = "void"
+
+[header.args]

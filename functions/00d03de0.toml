@@ -1,0 +1,10 @@
+last_change = 2026-10-09T11:52:01.848346Z
+addr = 0xd03de0
+size = 0xfc
+name = "CBaseEntity_ScriptGatherCriteria"
+
+[header]
+name = "CBaseEntity_ScriptGatherCriteria"
+addr = 0xd03de0
+
+[header.args]

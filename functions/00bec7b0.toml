@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:52:01.848111Z
+addr = 0xbec7b0
+size = 0x2d9
+name = "CEntity2SaveRestore_EndRestoreEntities"
+type = "_UNKNOWN **"
+
+[header]
+name = "CEntity2SaveRestore_EndRestoreEntities"
+addr = 0xbec7b0
+type = "_UNKNOWN **"
+
+[header.args]
